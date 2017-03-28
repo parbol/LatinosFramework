@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+#-----------------------------------------------------------
+#----- all samples that are currently available ------------
+#-----------------------------------------------------------
+#-----------------------------------------------------------
+#------------------ data samples ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#BLOCK               COLOR              NAME             LABEL             LOCATION OF FRIENDS                                                                                                 ISDATA
+#-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Data                 r.kBlack           Data             Data              /gpfs/csic_projects/tier3data/LatinosSkims/RunII/2016/Stop/minitrees/nominal/Stop/01_Data.root                      1
+#------------------ MC samples -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#BLOCK               COLOR              NAME             LABEL             LOCATION OF FRIENDS                                                                                                 ISDATA
+#-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DYJets               r.kYellow-9        DYJets           DY+Jets           /gpfs/csic_projects/tier3data/LatinosSkims/RunII/2016/Stop/minitrees/nominal/Stop/07t_ZJets.root                    0
+TTJets               r.kRed-9           TTJets           TT+Jets           /gpfs/csic_projects/tier3data/LatinosSkims/RunII/2016/Stop/minitrees/nominal/Stop/04t_TTTo2L2Nu.root                0
+TW                   r.kRed-7           singleT          TW                /gpfs/csic_projects/tier3data/LatinosSkims/RunII/2016/Stop/minitrees/nominal/Stop/05t_ST.root                       0
+Others               r.kCyan+1          TTW              TTW               /gpfs/csic_projects/tier3data/LatinosSkims/RunII/2016/Stop/minitrees/nominal/Stop/09t_TTW.root                      0
+Others               r.kBlue-7          TTZ              TTZ               /gpfs/csic_projects/tier3data/LatinosSkims/RunII/2016/Stop/minitrees/nominal/Stop/10t_TTZ.root                      0
+Others               r.kGreen-7         WW               WW                /gpfs/csic_projects/tier3data/LatinosSkims/RunII/2016/Stop/minitrees/nominal/Stop/06t_WW.root                       0
+Others               r.kGreen-5         VVV              VVV               /gpfs/csic_projects/tier3data/LatinosSkims/RunII/2016/Stop/minitrees/nominal/Stop/13t_VVV.root                      0
+Others               r.kBlue-7          VZ               VZ                /gpfs/csic_projects/tier3data/LatinosSkims/RunII/2016/Stop/minitrees/nominal/Stop/03t_VZ.root                       0
+T2tt150250           r.kPink            T2tt150250       T2tt(150,250)     /gpfs/csic_projects/tier3data/LatinosSkims/RunII/2016/Stop/minitrees/nominal/Stop/T2tt_mStop-150to250.root          0
+T2tt250350           r.kPink+2          T2tt250350       T2tt(250,350)     /gpfs/csic_projects/tier3data/LatinosSkims/RunII/2016/Stop/minitrees/nominal/Stop/T2tt_mStop-250to350.root          0
+T2tt350400           r.kPink+4          T2tt350400       T2tt(350,400)     /gpfs/csic_projects/tier3data/LatinosSkims/RunII/2016/Stop/minitrees/nominal/Stop/T2tt_mStop-350to400.root          0
+T2tt4001200          r.kPink+6          T2tt4001200      T2tt(400,1200)    /gpfs/csic_projects/tier3data/LatinosSkims/RunII/2016/Stop/minitrees/nominal/Stop/T2tt_mStop-400to1200.root         0
